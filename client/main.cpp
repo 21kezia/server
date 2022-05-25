@@ -8,7 +8,7 @@ using namespace std;
 
 void main()
 {
-	string ipAddress = "127.0.0.1"; //ip address server
+	string ipAddress = "147.0.0.5"; //ip address server
 	int port = 5400; //listening port
 
 	//initialize winsock
